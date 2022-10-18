@@ -1,10 +1,18 @@
 # Number-Converter
-This is a program that converts a number from and to most of the bases
+This is a bases-converter program that implements conversion from 
+
+(2-9) -> 10
+
+(10) -> (2-9)
+
+(8 and 10) -> 16
+
+16 -> (8,10)
 
 This is how the driver program looks like:
 
 
-  Main Menu:
+ [ Main Menu: ]
   
 ==================== Number System Conversion: ==================== 
 
@@ -23,7 +31,7 @@ CHOOSE YOUR SOURCE NUMBER SYSTEM:
 
 ==================== (INPUT ANY OTHER VALUE TO EXIT THE PROGRAM) ==================== 
 
-  Sample conversion:
+  [ Sample conversion: ]
   
   
 Source number: 10
