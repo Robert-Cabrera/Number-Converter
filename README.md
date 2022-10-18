@@ -14,55 +14,9 @@ This is how the driver program looks like:
 
  [ Main Menu: ]
   
-==================== Number System Conversion: ==================== 
-
-CHOOSE YOUR SOURCE NUMBER SYSTEM: 
-
-(2) BINARY
-(3) TERNARY
-(4) QUATERNARY
-(5) QUINARY
-(6) SENARY
-(7) SEPTENARY
-(8) OCTAL
-(9) NONARY
-(10) DECIMAL
-(16) HEXADECIMAL
-
-==================== (INPUT ANY OTHER VALUE TO EXIT THE PROGRAM) ==================== 
+<img width="665" alt="image" src="https://user-images.githubusercontent.com/96351718/196496037-b941fbba-7e58-468d-8ff6-3948465880fb.png">
 
   [ Sample conversion: ]
   
-  
-Source number: 10
+<img width="567" alt="image" src="https://user-images.githubusercontent.com/96351718/196496154-8c39a2b9-48e9-4386-b19e-e54965458dda.png">
 
-======= Select your target number system: =======
-
-(2) BINARY
-(3) TERNARY
-(4) QUATERNARY
-(5) QUINARY
-(6) SENARY
-(7) SEPTENARY
-(8) OCTAL
-(9) NONARY
-(16) HEXADECIMAL
-
-======= Input any other value to exit the program =======
-
-16
-
-=== Source: 10 | Target: 16 ===
-
-Input your number in source system: 
-764
-
-=====================
-
-Decimal: 764
-
-Target (16): 2fc
-
-=====================
-
-You will be returned to the main menu
